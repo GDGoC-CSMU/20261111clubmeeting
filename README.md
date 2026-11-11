@@ -5,6 +5,6 @@
 
 **請透過連結打開Google Colob筆記本，後新增副本**
 
-[class1_api](https://colab.research.google.com/drive/1NU9A4RBKNR1cxAHbmJ1OdgUfv0rWlWqS?usp=sharing)
+[class1_api](https://colab.research.google.com/drive/1fqpVoVyrY2pzQySkywLt1jhfnC4SOWxg?usp=sharing)
 
 [class2_charts](https://colab.research.google.com/drive/1e9hUIls1JyuU77fAlT4A9xmdCav7NxNy?usp=sharing)
